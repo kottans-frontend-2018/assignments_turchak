@@ -1,0 +1,3 @@
+[submodule "task_12"]
+	path = task_12
+	url = https://github.com/turchak/pizza-app.git
