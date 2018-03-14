@@ -1,0 +1,3 @@
+[submodule "task_10"]
+	path = task_10
+	url = https://github.com/turchak/weather-app
